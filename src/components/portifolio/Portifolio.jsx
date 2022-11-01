@@ -18,11 +18,11 @@ const Portifolio = () => {
       <div className="container portifolio-container">
         <article className='portifolio-item'>
           <div className="portifolio-item-img">
-            <img src={IMG1} />
+            <img src={IMG6} />
           </div>
-          <h3>Website de vendas</h3>
+          <h3>Meteorologia em tempo Real</h3>
           <div className="portifolio-item-cta">
-            <a href='https://milton-augusto-uaiene.github.io/webawax/' className='btn'>Github</a>
+            <a href='https://milton-augusto-uaiene.github.io/clima/' className='btn'>Github</a>
 
           </div>
         </article>
@@ -31,7 +31,7 @@ const Portifolio = () => {
           <div className="portifolio-item-img">
             <img src={IMG2} />
           </div>
-          <h3>Sistema de Restaurante</h3>
+          <h3>Pizzaria</h3>
           <div className="portifolio-item-cta">
             <a href='https://milton-augusto-uaiene.github.io/pizza/' className='btn'>Github</a>
             

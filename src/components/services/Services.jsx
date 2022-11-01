@@ -50,7 +50,7 @@ const Services = () => {
 
             <li>
               <BiCheck className='service-list-icon'/>
-              <p>Conhecimento das Principais Tecnologias do Mercado</p>
+              <p>Conhecimento das Principais Tecnologias Frontend</p>
             </li>
 
             <li>
